@@ -3,7 +3,7 @@
 <!--
 **Celest14l/Celest14l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Python Programming 
 - 🌱 I’m currently learning AI and ML
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: IG ID: c0ld_as_venus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to do drama, singing, comedy to make my daily life more interesting
--->
