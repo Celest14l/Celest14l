@@ -7,12 +7,14 @@ Programming: Skilled in C/C++, Python, and full-stack development with experienc
 Project Interests: Enthusiastic about projects that focus on real-world applications, such as inventory management systems, social networking platforms, and chatbot development
 Hackathons: Currently working with my team on a project for the Smart India Hackathon, where we’re building an AI-based chatbot for the Department of Justice’s website
 Personal Mission: Striving to make student life easier through technology, working on projects that provide real-time information, announcements, and timetable management
+
 🌟 Skills & Technologies
 Programming Languages: C, C++, Python
-Web Development: HTML, CSS, JavaScript, React, Node.js, SQL
+Web Development: HTML, CSS, JavaScript, SQL
 Data Science: BeautifulSoup for data scraping, SQL for database management, and experience with NLP for natural language processing
 Frameworks & Libraries: React, Express.js, Bootstrap, TailwindCSS
-Tools: Git, GitHub, Docker, VS Code
+Tools: Git, GitHub, Google Collab, Jupyter, VS Code
+
 🚀 Projects
 AI-based Chatbot: Developing a virtual assistant for the Department of Justice's website using Python, BeautifulSoup, and SQL for data handling
 Inventory Management System: A SQL-based project for organizing and tracking inventory data efficiently
