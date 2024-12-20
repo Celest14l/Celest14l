@@ -1,4 +1,4 @@
-Hi there, I'm Priyanshu Singh 👋
+# Hi there, I'm Priyanshu Singh 👋
 Welcome to my GitHub profile! I'm an Artificial Intelligence and Machine Learning student with a passion for building impactful projects, from creating efficient algorithms to developing full-stack applications. I'm particularly interested in NLP, data science, machine learning, C/C++, and Python development, and I enjoy tackling challenges that involve deep technical skills and problem-solving.
 
 👨‍💻 About Me
