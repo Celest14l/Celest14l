@@ -41,7 +41,7 @@ Meet Veena: An AI agent designed to efficiently handle insurance calls, showcasi
 ### 📚 Agentic-Book-Publication – AI-Powered Publication Workflow
 An innovative project leveraging AI agents to streamline and automate the entire book publication process, from content generation to formatting.
 🧩 AI Agents, Workflow Automation, Content Generation, Publishing Tools
-🔗 _Demo Link Not Available (The provided YouTube URL did not return video data)_ | [Explore Repo](https://github.com/Celest14l/Agentic-Book-Publication) 
+🔗 [Watch Demo](https://youtu.be/ZLmEuSVBwg4) | [Explore Repo](https://github.com/Celest14l/Agentic-Book-Publication) 
 
 ---
 
