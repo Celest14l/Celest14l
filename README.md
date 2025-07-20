@@ -19,6 +19,7 @@
 
 ### 👤 Metahumans – Agentic AI Framework
 An advanced digital being framework designed to mimic **thought, emotion, and empathy** using multi-modal AI, reinforcement learning, Unreal Engine, and LangChain.
+
 🛠️ Unreal Engine, LangChain, Audio2Face, AI Agents, RLHF, Persona Simulation
 
 🔗 [Watch Demo](http://www.youtube.com/watch?v=L3iMVHcjaXM) | [Explore Repo](https://github.com/Celest14l/MetaHUMANS) 
@@ -27,6 +28,7 @@ An advanced digital being framework designed to mimic **thought, emotion, and em
 
 ### 🧠 MindPal: AI-Driven Mental Wellness | Live Demo
 An intelligent personal assistant designed to **remember, recall, and reason** — functioning as your second brain with robust long-term memory capabilities.
+
 🧩 Long-term memory, Task tracking, FastAPI, Vector DBs, Generative UI
 
 🔗 [Watch Demo](http://www.youtube.com/watch?v=0_L0q8raDkw) | [Explore Repo](https://github.com/Celest14l/MindPal)
@@ -35,6 +37,7 @@ An intelligent personal assistant designed to **remember, recall, and reason** �
 
 ### 🤖 InsuranceBOT – AI Agent for Insurance Calls
 Meet Veena: An AI agent designed to efficiently handle insurance calls, showcasing advanced conversational AI capabilities for automated customer service.
+
 🛠️ Conversational AI, NLP, Call Automation, AI Agents
 
 🔗 [Watch Demo](http://www.youtube.com/watch?v=N-IUWELuUEw) | [Explore Repo](https://github.com/Celest14l/InsuranceBOT) 
@@ -43,6 +46,7 @@ Meet Veena: An AI agent designed to efficiently handle insurance calls, showcasi
 
 ### 📚 Agentic-Book-Publication – AI-Powered Publication Workflow
 An innovative project leveraging AI agents to streamline and automate the entire book publication process, from content generation to formatting.
+
 🧩 AI Agents, Workflow Automation, Content Generation, Publishing Tools
 
 🔗 [Watch Demo](https://youtu.be/ZLmEuSVBwg4) | [Explore Repo](https://github.com/Celest14l/Agentic-Book-Publication) 
