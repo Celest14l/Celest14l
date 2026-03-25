@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Priyanshu 👋</h1>
 <p align="center">
-🚀 AI/ML Explorer | 🎯 6× Hackathon Finalist | 🧠 Building Human-Centric Intelligence
+🚀 AI/ML Explorer | 🎯 7 × Hackathon Finalist | 🧠 Building Human-Centric Intelligence
 </p>
 
 ---
